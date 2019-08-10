@@ -1,2 +1,2 @@
-## Simple Budgeting App
-SimplySpent is a simple and elegant way to keep track of what you're spending. There's no syncing with a bank account, no categories, no complicated bells and whistles - just what you're spending and when.
+## Base Code for a fullstack React app
+For when you don't want to use create-react-app
